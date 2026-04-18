@@ -1,4 +1,4 @@
-# Code-Lex
+# Code-Lex v.1.1
 CodeLex is a Java tool that accelerates code review processes to ensure adherence to established standards. When a file is opened, it is automatically analyzed, generating the structure, functional diagram, code, and a list of observations. This significantly facilitates the review of the work.
 
 # Main features

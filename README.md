@@ -16,4 +16,6 @@ Source validation
 Source diagram
 <img width="1366" height="768" alt="code-lex-en-3" src="https://github.com/user-attachments/assets/e1967b07-cbea-4260-acca-31f881f40b1b" />
 
+Demo: https://youtu.be/iyyntWAy4YQ
+
 * Up to 5k file size
